@@ -82,4 +82,4 @@ async def volume(ctx,num):
 
 
 
-client.run('Njk3NTI3MjI3MTM4NzAzNDUx.XpPJRA.JZWJnjAUGvafFBA9WIdFQ-6ks1Y')
+client.run('[Your Token Here]')
